@@ -1,0 +1,16 @@
+---
+title: "Dr Diego Lopes da Silva"
+image: me.png
+about: jolla
+bibliography: references.bib
+---
+
+Hello!
+
+I am a Senior Researcher at the Stockholm International Peace Research Institute (SIPRI), where I conduct work on military expenditure and arms production. I am mostly interested in the interplay between [political institutions and military spending](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2129128). I also spend quite sometime thinking about how to use data to promote international disarmament.
+
+I created this website to show some of my work and to share some pet projects of mine and a few random thoughts. In my spare time, I like reading about other topics I am interested in. Here is what I am [reading](https://www.goodreads.com/user/show/67052947-diego-da-silva) at the moment.
+
+Here you can find my CV, [SIPRI page](https://www.sipri.org/about/bios/dr-diego-lopes-da-silva), [Google Scholar](https://scholar.google.com/citations?user=JGIEcrgAAAAJ&hl=pt-BR), [GitHub](https://github.com/diegolopesdasilva) and [Tableau](https://public.tableau.com/app/profile/diegolpsdasilva/vizzes) Profile.
+
+You can find me on Twitter also [\@dielopesilva](https://twitter.com/dielopesilva).

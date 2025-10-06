@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Diego Lopes da Silva"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css   # <- make sure this file is in the project root

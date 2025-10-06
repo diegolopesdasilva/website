@@ -1,0 +1,69 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+    toc-depth: 2
+    number-sections: false
+    page-layout: article
+---
+
+## Peer-reviewed articles & book chapters
+
+- Scarazzato, L., Liang, X., Tian, N., & Lopes da Silva, D. (2024). [_Developments in Arms Production and the Effects of the War in Ukraine_](https://www.tandfonline.com/doi/full/10.1080/10242694.2024.2381784). _Defence and Peace Economics_, 1–21.
+- Silva, D. L. (2023). [_Political Accountability and Military Spending_](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2129128). _Defence and Peace Economics_, 34(5), 563–580.
+- Tian, N., Silva, D. L., Béraud-Sudreau, L., Scarazzato, L., Liang, X., & Assis, A. (2023). [_Developments in Military Expenditure and the Effects of the War in Ukraine_](https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2221877). _Defence and Peace Economics_, 34(5), 547–562.
+- Silva, D. L. (2020). [_Arms for export? A reappraisal of the Brazilian arms industry_](https://www.epsjournal.org.uk/index.php/EPSJ/article/view/330). _Economics of Peace and Security Journal_, 15(1), 31-38.
+- Tian, N., Lopes da Silva, D., & Kuimova, A. (2020). [_Military Spending and the Achievement of the 2030 Agenda for Sustainable Development_](https://www.un.org/disarmament/publications/occasionalpapers/unoda-occasional-papers-no-35-april-2020/). In _UNODA Occasional Papers no. 35: Rethinking Unconstrained Military Spending_ (pp. 21–37). United Nations, New York.
+- Silva, D. L. (2019). _Reassessing Brazil’s Arms Industry_. In K. Hartley & J. Belin (Eds.), _The Economics of the Global Defence Industry_. New York: Routledge.
+- Silva, D. L. (2018). [_Filling arms production data gaps: South America as a case in point_](https://www.epsjournal.org.uk/index.php/EPSJ/article/view/313). _Economics of Peace and Security Journal_, 13(2), 20–27.
+
+
+## SIPRI & partner publications (fact sheets, insights, datasets)
+
+- Liang, X., Tian, N., **Lopes da Silva, D.**, Scarazzato, L., Karim, K., & Guiberteau Ricard, J. _Trends in World Military Expenditure, 2024_. (SIPRI, Stockholm: April 2025).
+- Tian, N., **Lopes da Silva, D.**, Liang, X., & Scarazzato, L. _Trends in World Military Expenditure, 2023_. (SIPRI, Stockholm: April 2024).
+- Scarazzato, L., Tian, N., **Lopes da Silva, D.**, Liang, X., & Djokic, K. _The SIPRI Top 100 Arms-producing and Military Services Companies, 2023_. (SIPRI, Stockholm: December 2024).
+- Tian, N., **Lopes da Silva, D.**, Liang, X., Scarazzato, L., Béraud-Sudreau, L., & Assis, A. [_Trends in World Military Expenditure, 2022_](https://www.sipri.org/publications/2023/sipri-fact-sheets/trends-world-military-expenditure-2022). (SIPRI, Stockholm: April 2023).
+- Liang, X., Scarazzato, L., Béraud-Sudreau, L., Tian, N., **Lopes da Silva, D.**, Choi, Y., & Kristjan Sild, E. [_The SIPRI Top 100 Arms-producing and Military Services Companies, 2022_](https://www.sipri.org/publications/2023/sipri-fact-sheets/sipri-top-100-arms-producing-and-military-services-companies-2022). (SIPRI, Stockholm: December 2023).
+- [_Using Taxation to Fund Military Spending_](https://www.sipri.org/publications/2023/sipri-insights-peace-and-security/using-taxation-fund-military-spending). (SIPRI, Stockholm: January 2023).
+- **Lopes da Silva, D.**, Tian, N., Béraud-Sudreau, L., Marksteiner, A., & Liang, X. [_Trends in World Military Expenditure, 2021_](https://www.sipri.org/publications/2022/sipri-fact-sheets/trends-world-military-expenditure-2021). (SIPRI, Stockholm: April 2022).
+- Béraud-Sudreau, L., Liang, X., **Lopes da Silva, D.**, Tian, N., & Scarazzato, L. [_The SIPRI Top 100 Arms-producing and Military Services Companies, 2021_](https://www.sipri.org/publications/2022/sipri-fact-sheets/sipri-top-100-arms-producing-and-military-services-companies-2021). (SIPRI, Stockholm: December 2022).
+- **Lopes da Silva, D.**, Tian, N., & Marksteiner, A. [_Pathways for Reducing Military Spending in Post-civil Conflict Settings_](https://www.sipri.org/publications/2022/sipri-insights-peace-and-security/pathways-reducing-military-spending-post-civil-conflict-settings). (SIPRI, Stockholm: January 2022).
+- **Lopes da Silva, D.**, Tian, N., & Marksteiner, A. [_Trends in World Military Expenditure, 2020_](https://www.sipri.org/publications/2021/sipri-fact-sheets/trends-world-military-expenditure-2020). (SIPRI, Stockholm: April 2021).
+- Marksteiner, A., Béraud-Sudreau, L., Tian, N., **Lopes da Silva, D.**, & Kuimova, A. [_The SIPRI Top 100 Arms-producing and Military Services Companies, 2020_](https://www.sipri.org/publications/2021/sipri-fact-sheets/sipri-top-100-arms-producing-and-military-services-companies-2020). (SIPRI, Stockholm: December 2021).
+- Tian, N., Kuimova, A., **Lopes da Silva, D.**, Wezeman, P. D., & Wezeman, S. T. [_Trends in World Military Expenditure, 2019_](https://www.sipri.org/publications/2020/sipri-fact-sheets/trends-world-military-expenditure-2019). (SIPRI, Stockholm: April 2020).
+- Tian, N., & **Lopes da Silva, D.** [_Military Spending and Official Development Assistance in Recipient States: Is there a Relationship?_](https://www.sipri.org/publications/2020/sipri-insights-peace-and-security/military-spending-and-official-development-assistance-recipient-states-there-relationship-0) (SIPRI Insights, August 2020).
+- Béraud-Sudreau, L., Marksteiner, A., **Lopes da Silva, D.**, Tian, N., Kuimova, A., Wezeman, P. D., & Wezeman, S. T. [_Mapping the International Presence of the World’s Largest Arms Companies_](https://www.sipri.org/publications/2020/sipri-insights-peace-and-security/mapping-international-presence-worlds-largest-arms-companies). (SIPRI Insights, December 2020).
+- [_Emerging Suppliers in the Global Arms Trade_](https://www.sipri.org/publications/2020/sipri-insights-peace-and-security/emerging-suppliers-global-arms-trade). (SIPRI Insights, December 2020).
+- Wezeman, P. D., Fleurant, A., Kuimova, A., **Lopes da Silva, D.**, Tian, N., & Wezeman, S. T. _Trends in International Arms Transfers, 2019_. (SIPRI Fact Sheet, Stockholm: March 2020).
+- [_The SIPRI Top 100 Arms-producing and Military Services Companies, 2018_](https://www.sipri.org/publications/2019/sipri-fact-sheets/sipri-top-100-arms-producing-and-military-services-companies-2018). (SIPRI, Stockholm: December 2019).
+
+## SIPRI Yearbook chapters
+
+- (2025) _3. Military expenditure_.
+- (2025) _4. Arms production and military services_.
+- (2024) _Military expenditure and developments in arms production_.
+- (2023) _Military expenditure and arms production_.  
+- (2022) [_8. Military expenditure_](https://www.sipri.org/yearbook/2022/08).
+- (2021) [_8. Military expenditure_](https://www.sipri.org/yearbook/2021/08).
+- (2020) [_8. Military expenditure_](https://www.sipri.org/yearbook/2020/08); [_9. International arms transfers and developments in arms production_](https://www.sipri.org/yearbook/2020/09).
+- (2018) [_4. Military expenditure_](https://www.sipri.org/yearbook/2018/04).
+- (2017) [_9. Military expenditure_](https://www.sipri.org/yearbook/2017/09).
+
+## Commentary & essays (SIPRI)
+
+- (Sep 2025) _Before it’s too late: Why a world of interacting AI agents demands new safeguards_ (Essay).
+- (Mar 2023) [_Iraq since the invasion: 20 years in SIPRI data_](https://www.sipri.org/commentary/topical-backgrounder/2023/iraq-invasion-20-years-sipri-data) (Topical backgrounder).
+- (Oct 2020) [_Autocracy is on the rise: Should we expect military spending to follow?_](https://www.sipri.org/commentary/topical-backgrounder/2020/autocracy-rise-should-we-expect-military-spending-follow) (Topical backgrounder).
+- (Dec 2019) [_Ending off-budget military funding: Lessons from Chile_](https://www.sipri.org/commentary/topical-backgrounder/2019/ending-budget-military-funding-lessons-chile) (Topical backgrounder).
+- (Apr 2019) [_The crucial role of the military in the Venezuelan crisis_](https://www.sipri.org/commentary/topical-backgrounder/2019/crucial-role-military-venezuelan-crisis) (Topical backgrounder).
+- (Sep 2017) [_Improving South American military expenditure data_](https://www.sipri.org/commentary/topical-backgrounder/2017/improving-south-american-military-expenditure-data) (Topical backgrounder).
+
+## Earlier publications (Portuguese)
+
+- Silva, D. L. (2016). _Dependência da Importação de Insumos para a Defesa: Uma Breve Análise do Caso Colombiano_ [Arms Import Dependence: A Brief Analysis of the Colombian Case]. _Revista Brasileira de Estudos de Defesa_, 3(1).
+- Saint Pierre, H. L., & Silva, D. L. (2014). _A Torre de Babel Sul-Americana: A Importância da Convergência Conceitual para a Cooperação em Defesa_ [The South American Babel Tower: The Importance of Conceptual Convergence to Defense Cooperation]. In É. C. A. Winand, I. R. Barnabé, & L. M. Pinheiro (Orgs.), _Relações Internacionais_ (pp. 43–66). Brasília: Fundação Alexandre de Gusmão.
+- Saint Pierre, H. L., & Silva, D. L. (2014). _Percepções de Segurança Regional no Âmbito da UNASUL: O Conselho Sul-Americano de Defesa_ [Regional Security Perceptions Within UNASUR: The South American Defense Council]. In L. F. Ayerbe (Org.), _Territorialidades e Entrecruzamentos Geopolíticos na América Latina_ (Vol. 1, pp. 220–244). São Paulo: Cultura Acadêmica.
+- Silva, D. L. (2014). _Metodologias de Transparência Militar: Aportes Técnicos e Teóricos sobre o Caso Sul-Americano_ [Military Transparency Methodologies: Technical and Theoretical Approaches to the South American Case]. _Cadernos de Campo_, 2(1).
