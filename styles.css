@@ -1,3 +1,6 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400;500;600;700&family=Petrona:wght@400;500;600;700&display=swap');
+
 /* ===== Global link color (change this one value if needed) ===== */
 :root{
   --link-red: #f69a92;                       /* your red */
@@ -13,6 +16,10 @@ html, body{
   color: rgba(242,239,234,1) !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-weight: 400 !important;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
 
 /* Global links */
@@ -58,11 +65,60 @@ nav.toc .nav-link.active,
 .navbar .navbar-brand,
 .navbar .nav-link{
   color: rgba(242,239,234,1) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none !important;
+  font-weight: 500;
+}
+.navbar .navbar-brand {
+  font-size: 0.75em;
 }
 .navbar .nav-link:hover,
 .navbar .navbar-brand:hover{
   color: var(--bs-link-hover-color) !important;
-  text-decoration: underline;
+  text-decoration: none !important;
+}
+
+/* Move navigation to upper right */
+.navbar-nav {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+}
+
+.navbar-brand-container {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Center profile picture and content */
+.quarto-about-jolla {
+  text-align: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 3em 2em;
+}
+
+.quarto-about-jolla .about-image {
+  border-radius: 50% !important;
+  width: 15em !important;
+  height: 15em !important;
+  object-fit: cover !important;
+  margin: 0 auto 2em auto !important;
+}
+
+.quarto-about-jolla header,
+.quarto-about-jolla main.content {
+  text-align: center !important;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.quarto-about-jolla main.content p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
 }
 
 /* Your layout helpers */
@@ -71,7 +127,18 @@ nav.toc .nav-link.active,
 .container img{ border-radius:50%; width:150px; margin-right:20px; }
 .container .text{ max-width:600px; text-align:justify; }
 
-h1, h2, h3, h4, h5, h6 { color: rgba(242,239,234,1); }
+h1, h2, h3, h4, h5, h6 {
+  color: rgba(242,239,234,1);
+  font-family: "Petrona", Georgia, serif !important;
+  font-weight: 400 !important;
+  line-height: 1.1em;
+}
+
+h1.title {
+  font-size: 2.5em;
+  font-weight: 500;
+  line-height: 1.1em;
+}
 hr { border-color: rgba(255,255,255,0.12); }
 
 /* OPTIONAL: make navbar links red too
