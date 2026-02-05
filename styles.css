@@ -1,5 +1,5 @@
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400;500;600;700&family=Petrona:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400;500;600;700&display=swap');
 
 /* ===== Global link color (change this one value if needed) ===== */
 :root{
@@ -129,8 +129,8 @@ nav.toc .nav-link.active,
 
 h1, h2, h3, h4, h5, h6 {
   color: rgba(242,239,234,1);
-  font-family: "Petrona", Georgia, serif !important;
-  font-weight: 400 !important;
+  font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 500 !important;
   line-height: 1.1em;
 }
 
@@ -138,6 +138,15 @@ h1.title {
   font-size: 2.5em;
   font-weight: 500;
   line-height: 1.1em;
+}
+
+/* Blog page: links same color as text */
+.quarto-listing a,
+.quarto-listing a:visited,
+.quarto-listing a:hover,
+.quarto-listing a:focus {
+  color: rgba(242,239,234,1) !important;
+  text-decoration: none;
 }
 hr { border-color: rgba(255,255,255,0.12); }
 
