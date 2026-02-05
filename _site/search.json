@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "A liltte about me",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "I am Brazilian but I live in Sweden for almost 5 years now with my wife Ana and our little son, Bento. I have a PhD in Peace, Defense and International Security from the San Tiago Dantas Graduate Programe of the São Paulo State University in São Paulo, Brazil.\nBeing South American has really shaped my research interests. The history of military coups and dictatorships has pushed my research to understand how the institutions, political power and resource allocation to the military interact. I look at military expenditures from those lenses: not just an input for military might, but as the outcome of a particular constellation of interests.\nWhile my basic scientific training was mostly qualitative, I’ve grown to appreciate quantitative methods more and more over the years. Besides being an interesting topic in and of itself, statistics is an extremely powerful tool - specially when combined with sound qualitative work. I have also grown to love programming in R. If you ask me, R is everything science needs to be: open access, collaborative and reproducible. Anyone anywhere can use it and produce insights, which is amazing to me. While I do like to preach the word of R, I am also familiar with Stata.\nLastly, if there is one thing you should know about me is that I am curious. The reason I chose to study International Relations is because it covers so much ground. I got to study many of the things I was passionate about, like History, Economics, Sociology and so on. But I am also interested in many things besides International Relations. The thing I read the most about is certainly Philosophy, but lately I’ve been reading a lot of history of mathematics - being mathematical problems or biographies of mathematicians. You can check my Goodreads page to see what I have been reading."
+    "text": "Welcome to my blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 5, 2025\n\n\nDiego Lopes da Silva\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Diego Lopes da Silva",
+    "section": "",
+    "text": "Hello!\nI am a Senior Researcher at the Stockholm International Peace Research Institute (SIPRI), where I conduct work on military expenditure and arms production. I am mostly interested in the interplay between political institutions and military spending. I also spend quite sometime thinking about how to use data to promote international disarmament.\nI created this website to show some of my work and to share some pet projects of mine and a few random thoughts. In my spare time, I like reading about other topics I am interested in. Here is what I am reading at the moment.\nHere you can find my CV, SIPRI page, Google Scholar, GitHub and Tableau Profile.\nYou can find me on Twitter also @dielopesilva."
   },
   {
     "objectID": "research.html",
@@ -49,10 +56,17 @@
     "text": "Earlier publications (Portuguese)\n\nSilva, D. L. (2016). Dependência da Importação de Insumos para a Defesa: Uma Breve Análise do Caso Colombiano [Arms Import Dependence: A Brief Analysis of the Colombian Case]. Revista Brasileira de Estudos de Defesa, 3(1).\nSaint Pierre, H. L., & Silva, D. L. (2014). A Torre de Babel Sul-Americana: A Importância da Convergência Conceitual para a Cooperação em Defesa [The South American Babel Tower: The Importance of Conceptual Convergence to Defense Cooperation]. In É. C. A. Winand, I. R. Barnabé, & L. M. Pinheiro (Orgs.), Relações Internacionais (pp. 43–66). Brasília: Fundação Alexandre de Gusmão.\nSaint Pierre, H. L., & Silva, D. L. (2014). Percepções de Segurança Regional no Âmbito da UNASUL: O Conselho Sul-Americano de Defesa [Regional Security Perceptions Within UNASUR: The South American Defense Council]. In L. F. Ayerbe (Org.), Territorialidades e Entrecruzamentos Geopolíticos na América Latina (Vol. 1, pp. 220–244). São Paulo: Cultura Acadêmica.\nSilva, D. L. (2014). Metodologias de Transparência Militar: Aportes Técnicos e Teóricos sobre o Caso Sul-Americano [Military Transparency Methodologies: Technical and Theoretical Approaches to the South American Case]. Cadernos de Campo, 2(1)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr Diego Lopes da Silva",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to my blog",
     "section": "",
-    "text": "Hello!\nI am a Senior Researcher at the Stockholm International Peace Research Institute (SIPRI), where I conduct work on military expenditure and arms production. I am mostly interested in the interplay between political institutions and military spending. I also spend quite sometime thinking about how to use data to promote international disarmament.\nI created this website to show some of my work and to share some pet projects of mine and a few random thoughts. In my spare time, I like reading about other topics I am interested in. Here is what I am reading at the moment.\nHere you can find my CV, SIPRI page, Google Scholar, GitHub and Tableau Profile.\nYou can find me on Twitter also @dielopesilva."
+    "text": "Welcome to my blog! Stay tuned for future posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "A liltte about me",
+    "section": "",
+    "text": "I am Brazilian but I live in Sweden for almost 5 years now with my wife Ana and our little son, Bento. I have a PhD in Peace, Defense and International Security from the San Tiago Dantas Graduate Programe of the São Paulo State University in São Paulo, Brazil.\nBeing South American has really shaped my research interests. The history of military coups and dictatorships has pushed my research to understand how the institutions, political power and resource allocation to the military interact. I look at military expenditures from those lenses: not just an input for military might, but as the outcome of a particular constellation of interests.\nWhile my basic scientific training was mostly qualitative, I’ve grown to appreciate quantitative methods more and more over the years. Besides being an interesting topic in and of itself, statistics is an extremely powerful tool - specially when combined with sound qualitative work. I have also grown to love programming in R. If you ask me, R is everything science needs to be: open access, collaborative and reproducible. Anyone anywhere can use it and produce insights, which is amazing to me. While I do like to preach the word of R, I am also familiar with Stata.\nLastly, if there is one thing you should know about me is that I am curious. The reason I chose to study International Relations is because it covers so much ground. I got to study many of the things I was passionate about, like History, Economics, Sociology and so on. But I am also interested in many things besides International Relations. The thing I read the most about is certainly Philosophy, but lately I’ve been reading a lot of history of mathematics - being mathematical problems or biographies of mathematicians. You can check my Goodreads page to see what I have been reading."
   }
 ]

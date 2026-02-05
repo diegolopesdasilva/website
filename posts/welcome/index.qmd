@@ -1,0 +1,8 @@
+---
+title: "Welcome to my blog"
+author: "Diego Lopes da Silva"
+date: "2025-02-05"
+categories: [news]
+---
+
+Welcome to my blog! Stay tuned for future posts.
