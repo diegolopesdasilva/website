@@ -3,6 +3,10 @@ title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
+  grid-columns: 2
   categories: true
+  fields: [title, author, date, categories, description]
+  feed: true
+  page-size: 10
 ---
