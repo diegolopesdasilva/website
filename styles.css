@@ -1,5 +1,5 @@
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
 
 /* ===== Color palette (from milex project) ===== */
 :root{
@@ -22,7 +22,7 @@ html, body{
   color: var(--green-dark) !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   font-weight: 400 !important;
   font-size: 1.1rem;
   line-height: 1.6;
@@ -135,15 +135,15 @@ nav.toc .nav-link.active,
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--green-dark);
-  font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
-  font-weight: 500 !important;
-  line-height: 1.1em;
+  font-family: "Forum", Georgia, serif !important;
+  font-weight: 400 !important;
+  line-height: 1.15em;
 }
 
 h1.title {
   font-size: 2.5em;
-  font-weight: 500;
-  line-height: 1.1em;
+  font-weight: 400;
+  line-height: 1.15em;
 }
 
 /* Blog listing — clean minimal list */
