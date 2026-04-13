@@ -218,10 +218,12 @@ h1.title {
 
 /* Fix list bullet overlap */
 ul, ol {
-  padding-left: 1.8em;
+  padding-left: 2.5em;
+  list-style-position: outside;
 }
 li {
-  padding-left: 0.3em;
+  padding-left: 0.4em;
+  margin-bottom: 0.3em;
 }
 
 hr { border-color: var(--border-color); }
