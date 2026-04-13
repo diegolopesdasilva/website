@@ -216,6 +216,14 @@ h1.title {
   padding-left: 0.5em;
 }
 
+/* Fix list bullet overlap */
+ul, ol {
+  padding-left: 1.8em;
+}
+li {
+  padding-left: 0.3em;
+}
+
 hr { border-color: var(--border-color); }
 
 /* Code blocks */
