@@ -1,42 +1,12 @@
 ---
 title: "Global Military Expenditures: A Visual History"
 description: "An interactive scrollytelling visualization of world military spending from 1992 to 2024, built with SvelteKit and D3."
-page-layout: custom
 ---
 
-```{=html}
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  #milex-frame {
-    width: 100vw;
-    height: 100vh;
-    border: none;
-    display: block;
-  }
-  /* Hide Quarto navbar/header when this page loads */
-  .navbar, #quarto-header, #quarto-content > * > nav {
-    display: none !important;
-  }
-  #quarto-content {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-  .page-layout-custom .content {
-    padding: 0 !important;
-    margin: 0 !important;
-    max-width: 100% !important;
-  }
-</style>
+An interactive scrollytelling experience that guides you through three decades of global military spending data. Built with SvelteKit and D3.js, the visualization explores how military expenditure has shifted across regions since the end of the Cold War.
 
-<iframe
-  id="milex-frame"
-  src="https://milex-website.vercel.app/"
-  title="Global Military Expenditures: A Visual History 1992-2024"
-  loading="lazy"
-  allow="fullscreen"
-></iframe>
-```
+**Tools:** SvelteKit, D3.js, Svelte transitions
+
+[Visit the visualization](https://milex-website.vercel.app/){.btn .btn-outline-dark}
+
+*Note: This project is hosted on Vercel and may occasionally be unavailable.*

@@ -11,7 +11,7 @@ website:
         text: Research
       - href: blog.qmd
         text: Ramblings
-      - href: portfolio/military-expenditures.qmd
+      - href: portfolio.qmd
         text: Portfolio
       - about.qmd
 

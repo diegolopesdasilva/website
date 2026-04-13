@@ -1,0 +1,10 @@
+---
+title: "Portfolio"
+listing:
+  contents: portfolio
+  sort: "title asc"
+  type: default
+  fields: [title, description]
+---
+
+A collection of side projects and data visualizations.
