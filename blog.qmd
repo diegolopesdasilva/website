@@ -1,12 +1,11 @@
 ---
-title: "Blog"
+title: "Ramblings"
 listing:
   contents: posts
   sort: "date desc"
-  type: grid
-  grid-columns: 2
+  type: default
   categories: true
-  fields: [title, author, date, categories, description]
+  fields: [title, date, categories, description]
   feed: true
   page-size: 10
 ---

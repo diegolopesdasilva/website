@@ -10,7 +10,7 @@ website:
       - href: research.qmd
         text: Research
       - href: blog.qmd
-        text: Blog
+        text: Ramblings
       - href: portfolio/military-expenditures.qmd
         text: Portfolio
       - about.qmd

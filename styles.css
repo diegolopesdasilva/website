@@ -144,62 +144,51 @@ h1.title {
   line-height: 1.1em;
 }
 
-/* Blog listing */
-.quarto-listing a,
-.quarto-listing a:visited {
-  color: var(--text-dark) !important;
-  text-decoration: none;
-}
-.quarto-listing a:hover,
-.quarto-listing a:focus {
-  color: var(--green-dark) !important;
-  text-decoration: none;
+/* Blog listing — clean minimal list */
+.quarto-listing .list.quarto-listing-default {
+  border-top: none;
 }
 
-/* Blog listing card style */
-.quarto-listing .listing-item {
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  padding: 1.5em;
-  margin-bottom: 1em;
-  background: #fff;
-  transition: box-shadow 0.2s ease, transform 0.15s ease;
+.quarto-listing .quarto-listing-default .list-item {
+  border-bottom: 1px solid var(--border-color);
+  padding: 1.2em 0;
 }
-.quarto-listing .listing-item:hover {
-  box-shadow: 0 4px 16px rgba(86,123,87,0.12);
-  transform: translateY(-2px);
+
+.quarto-listing a,
+.quarto-listing a:visited {
+  text-decoration: none !important;
 }
 
 .quarto-listing .listing-title {
   color: var(--green-dark) !important;
-  font-weight: 600;
-  font-size: 1.25em;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+.quarto-listing a:hover .listing-title {
+  color: var(--bs-link-hover-color) !important;
 }
 
 .quarto-listing .listing-date {
   color: var(--text-muted);
-  font-size: 0.9em;
-}
-
-.quarto-listing .listing-author {
-  color: var(--text-muted);
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .quarto-listing .listing-description {
   color: var(--text-dark);
-  margin-top: 0.5em;
+  margin-top: 0.3em;
+  font-size: 0.95em;
 }
 
-/* Categories/tags */
+/* Category tags */
 .quarto-listing .listing-categories .listing-category {
-  background-color: var(--green-light) !important;
-  color: var(--text-dark) !important;
-  border: none !important;
-  border-radius: 4px;
-  padding: 0.15em 0.6em;
-  font-size: 0.8em;
-  font-weight: 500;
+  background-color: transparent !important;
+  color: var(--text-muted) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 3px;
+  padding: 0.1em 0.5em;
+  font-size: 0.75em;
+  font-weight: 400;
+  text-transform: lowercase;
 }
 
 /* Category sidebar */
@@ -212,8 +201,6 @@ h1.title {
 .quarto-listing-category .category.active {
   color: var(--green-dark) !important;
   font-weight: 600;
-  border-left: 3px solid var(--green-dark);
-  padding-left: 0.5em;
 }
 
 /* Fix list bullet overlap */
