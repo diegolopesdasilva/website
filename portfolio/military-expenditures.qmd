@@ -7,6 +7,6 @@ An interactive scrollytelling experience that guides you through three decades o
 
 **Tools:** SvelteKit, D3.js, Svelte transitions
 
-[Visit the visualization](https://milex-website.vercel.app/){.btn .btn-outline-dark}
+[Visit the visualization](https://milexhistory.vercel.app/){.btn .btn-outline-dark}
 
 *Note: This project is hosted on Vercel and may occasionally be unavailable.*

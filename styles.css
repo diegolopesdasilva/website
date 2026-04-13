@@ -6,18 +6,20 @@
   --bg: #FFFCEF;
   --green-dark: #567B57;
   --green-light: #A9BDA1;
+  --red: #D24C4A;
+  --red-hover: #b03a38;
   --text-dark: #1a1a1a;
   --text-muted: #6b7280;
   --border-color: #e0ddd0;
-  --bs-link-color: var(--green-dark);
-  --quarto-link-color: var(--green-dark);
-  --bs-link-hover-color: #3d5a3e;
+  --bs-link-color: var(--red);
+  --quarto-link-color: var(--red);
+  --bs-link-hover-color: var(--red-hover);
 }
 
 /* Base */
 html, body{
   background-color: var(--bg) !important;
-  color: var(--text-dark) !important;
+  color: var(--green-dark) !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
@@ -29,12 +31,12 @@ html, body{
 /* Global links */
 a,
 a:visited{
-  color: var(--green-dark) !important;
+  color: var(--red) !important;
   text-decoration: underline;
 }
 a:hover,
 a:focus{
-  color: var(--bs-link-hover-color) !important;
+  color: var(--red-hover) !important;
   text-decoration: underline;
 }
 
@@ -43,7 +45,7 @@ a:focus{
 .sidebar .toc .nav-link,
 nav.toc a,
 #TOC a{
-  color: var(--green-dark) !important;
+  color: var(--red) !important;
   text-decoration: underline;
 }
 .sidebar .toc a:hover,
@@ -51,12 +53,12 @@ nav.toc a,
 .sidebar .toc .nav-link:focus,
 nav.toc a:hover,
 #TOC a:hover{
-  color: var(--bs-link-hover-color) !important;
+  color: var(--red-hover) !important;
 }
 .sidebar .toc .nav-link.active,
 nav.toc .nav-link.active,
 #TOC .nav-link.active{
-  color: var(--bs-link-hover-color) !important;
+  color: var(--red-hover) !important;
   font-weight: 600;
 }
 
@@ -132,7 +134,7 @@ nav.toc .nav-link.active,
 .container .text{ max-width:600px; text-align:justify; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--text-dark);
+  color: var(--green-dark);
   font-family: "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   font-weight: 500 !important;
   line-height: 1.1em;
@@ -160,12 +162,12 @@ h1.title {
 }
 
 .quarto-listing .listing-title {
-  color: var(--green-dark) !important;
+  color: var(--red) !important;
   font-weight: 500;
   font-size: 1.2em;
 }
 .quarto-listing a:hover .listing-title {
-  color: var(--bs-link-hover-color) !important;
+  color: var(--red-hover) !important;
 }
 
 .quarto-listing .listing-date {
@@ -174,34 +176,11 @@ h1.title {
 }
 
 .quarto-listing .listing-description {
-  color: var(--text-dark);
+  color: var(--green-dark);
   margin-top: 0.3em;
   font-size: 0.95em;
 }
 
-/* Category tags */
-.quarto-listing .listing-categories .listing-category {
-  background-color: transparent !important;
-  color: var(--text-muted) !important;
-  border: 1px solid var(--border-color) !important;
-  border-radius: 3px;
-  padding: 0.1em 0.5em;
-  font-size: 0.75em;
-  font-weight: 400;
-  text-transform: lowercase;
-}
-
-/* Category sidebar */
-.quarto-listing-category .category {
-  color: var(--text-dark) !important;
-}
-.quarto-listing-category .category:hover {
-  color: var(--green-dark) !important;
-}
-.quarto-listing-category .category.active {
-  color: var(--green-dark) !important;
-  font-weight: 600;
-}
 
 /* Fix list bullet overlap */
 ul, ol {
